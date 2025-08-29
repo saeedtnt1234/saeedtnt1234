@@ -7,31 +7,31 @@
 ## 🛠️ مهارت‌ها
 
 ### PHP
-![PHP](https://img.shields.io/badge/PHP-90%25-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-100%25-brightgreen)
 
 ### Laravel
-![Laravel](https://img.shields.io/badge/Laravel-85%25-red)
+![Laravel](https://img.shields.io/badge/Laravel-100%25-red)
 
 ### Python
-![Python](https://img.shields.io/badge/Python-85%25-yellow)
+![Python](https://img.shields.io/badge/Python-100%25-yellow)
 
 ### C++
-![C++](https://img.shields.io/badge/C++-75%25-blue)
+![C++](https://img.shields.io/badge/C++-100%25-blue)
 
 ### C
-![C](https://img.shields.io/badge/C-70%25-lightgrey)
+![C](https://img.shields.io/badge/C-100%25-lightgrey)
 
 ### Java
-![Java](https://img.shields.io/badge/Java-75%25-orange)
+![Java](https://img.shields.io/badge/Java-90%25-orange)
 
 ### JavaScript
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellowgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellowgreen)
 
 ### Kali Linux
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-65%25-lightblue)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-100%25-lightblue)
 
 ### ساخت زبان برنامه‌نویسی
-![Language Design](https://img.shields.io/badge/Language_Design-60%25-purple)
+![Language Design](https://img.shields.io/badge/Language_Design-80%25-purple)
 
 ---
 
